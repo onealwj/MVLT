@@ -1,5 +1,5 @@
 # MVLT
-PyTorch implementation of BMVC2022 paper Masked Vision-Language Transformers for Scene Text Recognition.  
+PyTorch implementation of BMVC2022 paper [Masked Vision-Language Transformers for Scene Text Recognition](https://arxiv.org/abs/2211.04785).  
 
 ### Dependency
 
