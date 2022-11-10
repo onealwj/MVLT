@@ -13,6 +13,11 @@ PyTorch implementation of BMVC2022 paper [Masked Vision-Language Transformers fo
   - IIIT, SVT, IC13, IC15, SVTP, and CUTE 
  
  We use LMDB of MJ, ST and evaluation datasets by downloaded from [ABINet](https://github.com/FangShancheng/ABINet). Real datasets can be downloaded from [STR-Fewer-Labels](https://github.com/ku21fan/STR-Fewer-Labels/) and we only need training datasets of the real datasets.  
+ '''
+ $ cd MVLT
+ $ mkdir data
+ '''
+ 
 The structure of `data` directory is  
 
     ```
