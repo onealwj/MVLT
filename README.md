@@ -14,6 +14,7 @@ PyTorch implementation of BMVC2022 paper [Masked Vision-Language Transformers fo
  
  We use LMDB of MJ, ST and evaluation datasets by downloaded from [ABINet](https://github.com/FangShancheng/ABINet). Real datasets can be downloaded from [STR-Fewer-Labels](https://github.com/ku21fan/STR-Fewer-Labels/) and we only need training datasets of the real datasets.  
  ```
+ #create data directory
  $ cd MVLT
  $ mkdir data
  ```
