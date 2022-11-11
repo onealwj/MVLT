@@ -2,7 +2,7 @@
 
 set -x
 
-METHOD=mvlt_vit_large_patch16
+METHOD=mvlt_vit_base_patch16
 DATA_PATH="./data/training"
 DATA_PATH_VAL="./data/evaluation"
 CHECKPOINT=${1}
