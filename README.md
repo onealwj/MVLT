@@ -54,6 +54,8 @@ The structure of `data` directory is
         └── SVTP  
   
     ```   
+## Models
+You can get the all models from [BaiduNetdisk(passwd:409r)](https://pan.baidu.com/s/19Hfwjmhy1qAzfJebiOkVHA)
 
 ## Pretraining
 1. pretrain MVLT  (using only synthetic data)
